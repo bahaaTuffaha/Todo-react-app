@@ -1,0 +1,11 @@
+.css-46bh2p-MuiCardContent-root {
+  display: inline-block;
+}
+.buttons_area {
+  position: relative;
+  float: right;
+}
+.todo-text {
+  font-family: monospace !important;
+  font-size: 15px !important;
+}

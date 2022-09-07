@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#lable1 {
+  padding-bottom: 7px;
+}
+#outlined-basic {
+  background-color: #ffffff;
+  height: 10px;
+}
+#submit_button {
+  margin-top: 7px;
+  width: 80px;
+  background-color: #017bff;
+  color: white;
+}
